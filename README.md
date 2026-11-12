@@ -204,4 +204,4 @@ This repository serves as the official landing page for NbuExplorer. The softwar
 **Get the most recent version of NbuExplorer today!**
 
 ---
-**Last updated:** 2026-11-12 09:26:19 UTC
+**Last updated:** 2026-11-12 17:57:39 UTC
